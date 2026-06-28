@@ -1,2 +1,2 @@
 # app
-heelllioo
+Hello! This is a simple application.
